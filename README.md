@@ -47,7 +47,10 @@
   ![screenshot](./client/src/assets/app2.png)
   ![screenshot](./client/src/assets/app3.png)
 
-# REPO LINK:
+# LUCAS/TEAM REPO:
+https://github.com/SANELulu/Covid-Clean
+
+# PERSONAL REPO LINK:
 https://github.com/MikeGordillo/CovidAPP
 
 # DEPLOYED URL:
