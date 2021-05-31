@@ -55,3 +55,6 @@ https://github.com/MikeGordillo/CovidAPP
 
 # DEPLOYED URL:
 https://boiling-dusk-14888.herokuapp.com/
+
+# PRESENTATION SLIDES LINK:
+https://docs.google.com/presentation/d/1tT3-MDvNntJ1lR9mqkmwO29XtmNdqf3aNhCR09HsrDE/edit?usp=sharing
